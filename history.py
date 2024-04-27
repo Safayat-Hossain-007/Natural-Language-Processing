@@ -56,3 +56,6 @@ runfile('/home/safayat/.config/spyder-py3/TFand IDF.py', wdir='/home/safayat/.co
 ## ---(Sat Apr 27 16:23:06 2024)---
 runfile('/home/safayat/.config/spyder-py3/TFand IDF.py', wdir='/home/safayat/.config/spyder-py3')
 runfile('/home/safayat/.config/spyder-py3/spamClassifier.py', wdir='/home/safayat/.config/spyder-py3')
+
+## ---(Sat Apr 27 20:02:59 2024)---
+runfile('/home/safayat/.config/spyder-py3/word2Vec.py', wdir='/home/safayat/.config/spyder-py3')
